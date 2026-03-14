@@ -1,0 +1,10 @@
+*.key
+*.pem
+*.secret
+.env
+.provisioning/issues/
+# OpenClaw ephemeral state (agent.workspace points here)
+sessions/
+memory/
+logs/
+cache/
